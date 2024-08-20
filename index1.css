@@ -1,0 +1,49 @@
+#gray{
+    background-color: gray;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    float: left;
+}
+#orange{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    float: left;    
+}
+#white{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    float: left;
+}
+#yellow{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    float: left;
+}
+.canvas{
+    height: 150px;
+    width: 700;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+h1{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+h2{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.main{
+    margin: 0px auto;
+    width: 900px;
+    height: 400px;
+    border: 2px solid;
+    margin-top: 150px;
+}
